@@ -1,6 +1,8 @@
-This project contains all the files of my very own devboard. This devboard is great for engineering and hobbyists, and comes with silkscreen art as well as added LEDs. 
+# Devboard
+This project contains all the files of my first devboard. This is great for electronics engineering and hobbyists, with a USBC and RP2040. I included LEDs on this board to make it more flashy, as well as silkscreen art to make it personal. The full BOMs are attached (there's two - one from JLCPCB and one from KiCAD). 
 
-There's two separate BOMs (one in root and one in ProjectFiles), both of which basically just say the same thing. I'm also working on different edge cuts to make it more fun!
+## Setup
+All the KiCAD project files are available in the KiCAD folder, and there's photos of the devboard included as well for a rough outline of the end product. Hardest part of this project is honeslty the routing, but as long as you place all the components in the right place, the routing shouldn't be that bad. I went through a few versions of the board to make sure the routing was just right. Try to save the vias for the end as well, its just better practice and I think the board will look less messy without them. 
 
 Here's some photos:
 
